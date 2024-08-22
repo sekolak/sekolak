@@ -12,7 +12,7 @@
 </div>
 
 - 🔭 I’m currently working at [Bankin ](https://www.linkedin.com/company/bankin/)
-- 🌱 I’m passionate about [Cloud](https://aws.amazon.com/serverless/) and [AI](https://ethereum.org/en/web3/).
+- 🌱 I’m passionate about [Cloud](https://aws.amazon.com/serverless/) and [DevOps](https://ethereum.org/en/web3/).
 - 📝 I’m aiming to write **one article per month** starting from November 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 
